@@ -1,0 +1,36 @@
+body {
+
+    font-family: sans-serif;
+}
+
+.header {
+
+    background-color: #1F2937;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 130px;
+}
+
+.logo {
+
+    font-size: 24px;
+    color: #F9FAF8;
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 20px;
+    
+}
+
+a {
+    text-decoration: none;
+    box-shadow: none;
+    color: #F9FAF8;
+    font-size: 18px;
+    color: #E5E7EB;
+}
