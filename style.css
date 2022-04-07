@@ -86,3 +86,17 @@ button {
     font-size: 36px;
     font-weight: bolder;
 }
+
+.images-container {
+
+    display:flex;
+}
+
+.bergkamp
+.zidane
+.cantona
+.ronaldinho {
+    display: flex;
+    width: 100px;
+    flex: 0 0 auto;
+}
