@@ -10,7 +10,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 0px 250px;
-    margin-bottom: 0;
+    margin: 0;
 }
 
 .logo {
@@ -78,4 +78,11 @@ button {
     border-radius: 10px;
     font-weight: bold ;
     font-size: medium;
+}
+
+.info-header {
+
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
 }
