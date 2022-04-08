@@ -2,6 +2,7 @@ body {
 
     font-family: sans-serif;
 }
+/*header styles*/
 
 .header {
 
@@ -35,6 +36,7 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+/*second section styles*/
 
 .first-image {
 
@@ -80,6 +82,8 @@ button {
     font-size: medium;
 }
 
+/*middle images styles*/
+
 .info-header {
 
     color: #1F2937;
@@ -97,6 +101,7 @@ button {
     justify-content: center;
     align-content: center;
     padding-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .bergkamp, .zidane, .ronaldinho, .cantona {
@@ -113,4 +118,16 @@ button {
     flex: 0 0 auto;
     flex-direction: column;
     
+}
+/*middle quote section styles*/
+
+.quote-container {
+    
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 36px;
+    background-color: #E5E7EB;
+    padding: 50px 300px;
+
 }
