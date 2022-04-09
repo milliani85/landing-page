@@ -135,11 +135,6 @@ button {
 
 /*call to action styles*/
 
-.action-container, button {
-
-    border: solid 2px white;
-   
-}
 
 .blue-container {
 
@@ -181,6 +176,7 @@ h3 {
 
 
     color: #F9FAF8;
+    border: solid 2px white;
 
  }
 
